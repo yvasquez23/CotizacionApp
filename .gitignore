@@ -1,0 +1,25 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.g.dart
+
+# Android
+android/app/google-services.json
+android/key.properties
+cotizacion.jks
+*.jks
+*.keystore
+
+# iOS
+ios/Runner/GoogleService-Info.plist
+
+# Firebase (MUY IMPORTANTE — contiene claves privadas)
+lib/firebase_options.dart
+
+# Otros
+.env
+*.log
+.DS_Store
