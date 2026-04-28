@@ -17,7 +17,8 @@ cotizacion.jks
 ios/Runner/GoogleService-Info.plist
 
 # Firebase (MUY IMPORTANTE — contiene claves privadas)
-lib/firebase_options.dart
+l# lib/firebase_options.dart
+2# android/app/google-services.json
 
 # Otros
 .env
